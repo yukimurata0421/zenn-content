@@ -1,7 +1,9 @@
 title: "最大距離を追うのをやめた ― ADS-B受信の改善を「証明」するために何を測るべきか"
-summary: "ADS-B受信環境の改善を統計的に証明するための評価基盤（PLAO/ARENA）の設計と実装について、全5回にわたって解説します。"
+summary: "ADS-B受信環境の改善を統計的に証明するための評価基盤（PLAO/ARENA）の設計と実装について解説します。"
 topics: ["ADSB", "統計", "RaspberryPi", "Python", "データエンジニアリング"]
 published: true
 price: 0
+# ここに順番通りにファイル名を並べます
 chapters:
   - 1-architecture
+  - 2-edge-logging
