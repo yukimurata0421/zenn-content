@@ -5,8 +5,6 @@ published: true
 price: 0
 # ここに順番通りにファイル名を並べます
 chapters:
-  - what-to-measure
-  - failure-first-edge-logging
-  - producer-consumer
-  - multi-layer-statistics
-  - operational-quality
+  - 1-architecture.md
+  - 2-edge-logging.md
+  - 3-producer-consumer.md
