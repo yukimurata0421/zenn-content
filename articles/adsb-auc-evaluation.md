@@ -1,5 +1,5 @@
 ---
-title: "最大距離を追うのをやめた ― ADS-B受信の改善を「証明」するために何を測るべきか"
+title: "ADS-B受信の評価指標を再設計する ― AUCという選択"
 emoji: "📡"
 type: "tech"
 topics: ["adsb", "sdr", "python", "statistics", "raspberrypi"]
