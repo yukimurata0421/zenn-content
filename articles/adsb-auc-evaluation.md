@@ -155,7 +155,8 @@ AUCで「何かが変わった」ことは分かる。しかし「なぜ変わ�
 
 ## ARENA が解こうとしていること
 
-**ARENA**（ADS-B Reception Evaluation & Normalization Architecture）は、AUCを入口として**原因を分解する評価パイプライン**です。名前に Normalization Architecture とあるとおり、単なる集計ツールではなく、外因変動を補正して性能変化を検出するための基盤として設計しています。
+**ARENA**（Aerial Evaluation & Network Analysis）は、AUCを入口として**原因を分解する評価パイプライン**です。単なる集計ツールではなく、外因変動（例：トラフィック量）を考慮し、
+性能変化を統計的に検出するための評価基盤として設計しています。
 
 ```mermaid
 graph LR
