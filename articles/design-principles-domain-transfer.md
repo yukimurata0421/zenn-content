@@ -3,7 +3,8 @@ title: "同じ設計原則を別ドメインへ移植すると何が変わるの
 emoji: "🔁"
 type: "tech"
 topics: ["設計", "SRE", "監視", "systemd", "アーキテクチャ"]
-published: false
+published: true
+published_at: 2026-04-15 12:00
 ---
 
 ## はじめに
