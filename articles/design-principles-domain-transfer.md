@@ -2,7 +2,7 @@
 title: "同じ設計原則を別ドメインへ移植すると何が変わるのか ― バッチ評価基盤から通知・監視システムへ"
 emoji: "🔁"
 type: "tech"
-topics: ["設計", "Python", "SRE", "監視", "systemd"]
+topics: ["設計", "SRE", "監視", "systemd", "アーキテクチャ"]
 published: false
 ---
 
