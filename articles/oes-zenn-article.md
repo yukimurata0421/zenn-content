@@ -3,7 +3,7 @@ title: "未知の重大ログを捨てない ― 85%のカバレッジから決�
 emoji: "🧭"
 type: "tech"
 topics: ["設計", "SRE", "LLM", "PostgreSQL", "アーキテクチャ"]
-published: false
+published: true
 ---
 
 ## この記事について
