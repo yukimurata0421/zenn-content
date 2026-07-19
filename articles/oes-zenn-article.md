@@ -837,4 +837,7 @@ AIシステムの信頼性は、不確実性を消すことで生まれません
 
 この記事で扱った設計は、Ops Evidence Synthesisで実装しています。
 
-- [ops-evidence-synthesis](https://github.com/yukimurata0421/ops-evidence-synthesis)
+## 関連リンク
+
+- [GitHub：実装・Architecture・ADR](https://github.com/yukimurata0421/ops-evidence-synthesis)
+- [ProtoPedia：作品概要・画面・システム構成](https://protopedia.net/prototype/8892)
